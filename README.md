@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Tech Stack
+
+This project is built using the following technologies:
+
+- **Next.js**: A React framework for building server-side rendered and static web applications.
+- **TypeScript**: A typed superset of JavaScript that compiles to plain JavaScript.
+- **MongoDB**: A NoSQL database for storing and managing data.
+- **Mailtrap**: A service for testing email notifications in a development environment.
+
+
 ## Getting Started
 
 First, run the development server:
